@@ -1,5 +1,6 @@
- <!-- pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd jenkins && docker compose -f docker-compose.yml up -d -->
-pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd start && chmod +x add_key.sh && ./add_key.sh && tail -n 1 ~/.ssh/authorized_keys
+<!-- pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd start && chmod +x add_key.sh && ./add_key.sh && tail -n 1 ~/.ssh/authorized_keys -->
+
+<!-- pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd jenkins && docker compose -f docker-compose.yml up -d -->
 
 
 <!-- python3 -m http.server 8000 -->
