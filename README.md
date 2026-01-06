@@ -4,7 +4,7 @@
 <!-- https://labs.play-with-docker.com -->
 
 
-<!-- cat ~/.ssh/authorized_keys && pwd && ls -la && tree && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd start && chmod +x add_key.sh && ./add_key.sh && cat ~/.ssh/authorized_keys -->
+<!-- cd ~ && cat ~/.ssh/authorized_keys && pwd && ls -la && tree && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd start && chmod +x add_key.sh && ./add_key.sh && cat ~/.ssh/authorized_keys -->
 
 <!-- pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd jenkins && docker compose -f docker-compose.yml up -d -->
 
