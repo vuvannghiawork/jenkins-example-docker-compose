@@ -5,9 +5,7 @@
 
 
 <!-- cd ~ && cat ~/.ssh/authorized_keys && pwd && ls -la && tree && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd start && chmod +x add_key.sh && ./add_key.sh && cat ~/.ssh/authorized_keys -->
-
-<!-- pwd && ls -la && mkdir github && cd github && git clone https://github.com/vuvannghiawork/jenkins-example-docker-compose && cd jenkins-example-docker-compose && cd jenkins && docker compose -f docker-compose.yml up -d -->
-
+ 
 
 <!-- python3 -m http.server 8000 -->
 <!-- https://github.com/vuvannghiawork/jenkins-example-docker-compose -->
@@ -17,5 +15,4 @@
  
 
 
-# Cấu trúc: ssh -L [Cổng_Local]:localhost:3306 [User]@[Host_PWD]
-ssh -L 3306:192.168.0.18:3306   ip172-18-0-30-d5d7cd291nsg00bshhag@direct.labs.play-with-docker.com
+<!-- docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'   mysql-mysql-1 -->
